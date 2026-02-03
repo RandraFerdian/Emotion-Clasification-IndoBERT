@@ -4,3 +4,8 @@ transformers
 pandas
 altair
 scikit-learn
+numpy
+matplotlib
+seaborn
+tqdm
+wordcloud
