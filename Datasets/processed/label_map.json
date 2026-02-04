@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a7a01e33c857af726f3ab62329be3119aa8dee0aaf5e2e81d552099de28622e
-size 92
+{"AngerData": 0, "FearData": 1, "JoyData": 2, "LoveData": 3, "NeutralData": 4, "SadData": 5}
